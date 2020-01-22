@@ -2,10 +2,6 @@
 
 class Util{
 
-    public function __construct(){
-
-    }
-
     public function convertToSlug($text){
     
     $trim = trim($text);
